@@ -10,9 +10,11 @@ tree hierarchy
 
 ```
 .
+├── Chapter-01
+│   └── document.rb
 └── README.md
 
-0 directories, 1 file
+1 directory, 2 files
 ```
 
 Reference
